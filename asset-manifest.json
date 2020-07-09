@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/aquarium/static/js/main.76ca80a7.chunk.js",
+    "main.js.map": "/aquarium/static/js/main.76ca80a7.chunk.js.map",
+    "runtime-main.js": "/aquarium/static/js/runtime-main.d7e98283.js",
+    "runtime-main.js.map": "/aquarium/static/js/runtime-main.d7e98283.js.map",
+    "static/js/2.d7221a2d.chunk.js": "/aquarium/static/js/2.d7221a2d.chunk.js",
+    "static/js/2.d7221a2d.chunk.js.map": "/aquarium/static/js/2.d7221a2d.chunk.js.map",
+    "index.html": "/aquarium/index.html",
+    "precache-manifest.ace9e41214267a123bed3620b8dc463a.js": "/aquarium/precache-manifest.ace9e41214267a123bed3620b8dc463a.js",
+    "service-worker.js": "/aquarium/service-worker.js",
+    "static/js/2.d7221a2d.chunk.js.LICENSE.txt": "/aquarium/static/js/2.d7221a2d.chunk.js.LICENSE.txt",
+    "static/media/63-aqua-planet.png": "/aquarium/static/media/63-aqua-planet.f9e80f99.png",
+    "static/media/63_gate_video.mp4": "/aquarium/static/media/63_gate_video.a5dbdd19.mp4",
+    "static/media/common_logo.png": "/aquarium/static/media/common_logo.6108c5d9.png",
+    "static/media/gate_bg.jpg": "/aquarium/static/media/gate_bg.e9575b46.jpg",
+    "static/media/ilsan-aqua-planet.png": "/aquarium/static/media/ilsan-aqua-planet.1a2f123c.png",
+    "static/media/ilsan_gate_video.mp4": "/aquarium/static/media/ilsan_gate_video.526b5551.mp4",
+    "static/media/jeju-aqua-planet.png": "/aquarium/static/media/jeju-aqua-planet.b437e5ea.png",
+    "static/media/jeju_gate_video.mp4": "/aquarium/static/media/jeju_gate_video.2adaaa26.mp4",
+    "static/media/qwanggyo_gate_video.mp4": "/aquarium/static/media/qwanggyo_gate_video.1d20ff56.mp4",
+    "static/media/yeosu-aqua-planet.png": "/aquarium/static/media/yeosu-aqua-planet.0f4e7057.png",
+    "static/media/yeosu_gate_video.mp4": "/aquarium/static/media/yeosu_gate_video.4104a58a.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7e98283.js",
+    "static/js/2.d7221a2d.chunk.js",
+    "static/js/main.76ca80a7.chunk.js"
+  ]
+}
