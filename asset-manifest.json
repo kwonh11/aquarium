@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/aquarium/static/js/main.76ca80a7.chunk.js",
-    "main.js.map": "/aquarium/static/js/main.76ca80a7.chunk.js.map",
+    "main.js": "/aquarium/static/js/main.aea3b1d7.chunk.js",
+    "main.js.map": "/aquarium/static/js/main.aea3b1d7.chunk.js.map",
     "runtime-main.js": "/aquarium/static/js/runtime-main.d7e98283.js",
     "runtime-main.js.map": "/aquarium/static/js/runtime-main.d7e98283.js.map",
     "static/js/2.d7221a2d.chunk.js": "/aquarium/static/js/2.d7221a2d.chunk.js",
     "static/js/2.d7221a2d.chunk.js.map": "/aquarium/static/js/2.d7221a2d.chunk.js.map",
     "index.html": "/aquarium/index.html",
-    "precache-manifest.ace9e41214267a123bed3620b8dc463a.js": "/aquarium/precache-manifest.ace9e41214267a123bed3620b8dc463a.js",
+    "precache-manifest.e22b605979a89a249bf3dd798f420778.js": "/aquarium/precache-manifest.e22b605979a89a249bf3dd798f420778.js",
     "service-worker.js": "/aquarium/service-worker.js",
     "static/js/2.d7221a2d.chunk.js.LICENSE.txt": "/aquarium/static/js/2.d7221a2d.chunk.js.LICENSE.txt",
     "static/media/63-aqua-planet.png": "/aquarium/static/media/63-aqua-planet.f9e80f99.png",
@@ -25,6 +25,6 @@
   "entrypoints": [
     "static/js/runtime-main.d7e98283.js",
     "static/js/2.d7221a2d.chunk.js",
-    "static/js/main.76ca80a7.chunk.js"
+    "static/js/main.aea3b1d7.chunk.js"
   ]
 }
