@@ -140,6 +140,9 @@ export default function Panel (props) {
     const {title, subtitle, activate, icon, description, comment, index, loaded,clickHandler}
      = props;
 
+    const handleButtonOnClick = () => {
+        alert('클론 페이지입니다. 한화 아쿠아플래닛 사이트를 이용해주세요.')
+    }
     return (
         <ContentContainer index={index} onClick={()=>clickHandler(index)}>
             <ImageContainer activate={index===activate? 'true':''}>
@@ -151,7 +154,7 @@ export default function Panel (props) {
                         }</Title>):
                     (<Subtitle>{subtitle}</Subtitle>)
                 }
-                <Button> 사이트 바로가기 </Button>
+                <Button onClick={handleButtonOnClick}> 사이트 바로가기 </Button>
             </ImageContainer>
             <DescriptionContainer activate={index===activate? 'true':''}>
                 <span>

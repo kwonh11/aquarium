@@ -66,6 +66,7 @@ const Loading = styled.div`
 function App() {
   const [activate, setActivate] = React.useState(-1);
   const [isLoading, setIsLoading] = React.useState(true);
+  
   React.useEffect(()=>{
     console.log(`isLoading : ${isLoading}`)
     setTimeout(()=>setIsLoading(false),600);
